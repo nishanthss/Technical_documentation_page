@@ -105,7 +105,7 @@ footer{
         width:100%;
         display: flex;
         flex-wrap: wrap;
-        align-items: center;
+        justify-content: center;
         background-color: #032407;
         margin-top: 0px;
         height: 245px;
