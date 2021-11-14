@@ -98,7 +98,7 @@ footer{
     height: 50px;
     background-color: #032407;
 }
-@media only screen and (max-width:400px){
+@media only screen and (max-width:500px){
     #navbar{
         position: inherit;
         box-sizing: border-box;
